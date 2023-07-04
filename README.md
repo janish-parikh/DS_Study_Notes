@@ -20,6 +20,7 @@ The repository covers a wide range of data science topics, including but not lim
 - [Forecasting Practices and Principals 3rd ed.](https://otexts.com/fpp3/)
 - [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 - Drift Detection in Time-Series Data
+- Short Summaries of ML algorithms
 - And much more!
 
 Feel free to explore and delve into the notebooks to expand your knowledge and gain insights into these topics.
