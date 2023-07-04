@@ -5,7 +5,6 @@ Welcome to the Data Science Notes Repository! This repository serves as a collec
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Notebooks](#notebooks)
 - [Topics Covered](#topics-covered)
 - [Contributing](#contributing)
 - [License](#license)
@@ -18,8 +17,8 @@ In this repository, you will find Jupyter Notebook files (.ipynb) and pdf files 
 
 The repository covers a wide range of data science topics, including but not limited to:
 
-- Forecasting Practices and Principals
-- Interpretable Machine Learning
+- [Forecasting Practices and Principals 3rd ed.](https://otexts.com/fpp3/)
+- [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 - Drift Detection in Time-Series Data
 - And much more!
 
