@@ -40,4 +40,3 @@ By contributing to this repository, you acknowledge that your contributions will
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
